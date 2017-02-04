@@ -2,73 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d43c43-d90d-451d-8408-61e584bf3001" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/Tester.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/calculete.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/assets/AppAsset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/commands/HelloController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/console.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/db.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/params.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/test_db.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/config/web.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/controllers/SiteController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/mail/layouts/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/models/ContactForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/models/LoginForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/models/User.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/requirements.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/runtime/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_data/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_output/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_support/AcceptanceTester.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_support/FunctionalTester.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/_support/UnitTester.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance.suite.yml.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance/AboutCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance/ContactCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance/HomeCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance/LoginCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/acceptance/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/bin/yii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/bin/yii.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/functional.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/functional/ContactFormCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/functional/LoginFormCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/functional/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/unit/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/unit/models/ContactFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/unit/models/LoginFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/tests/unit/models/UserTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/layouts/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/site/about.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/site/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/site/error.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/site/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/views/site/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/assets/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/index-test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/web/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/yii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/yii.bat" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/calculete.php" afterPath="$PROJECT_DIR$/tests/Calculete.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vagrantfile" afterPath="$PROJECT_DIR$/Vagrantfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yii2/tests/unit/models/ContactFormTest.php" afterPath="$PROJECT_DIR$/yii2/tests/unit/models/ContactFormTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yii2/tests/unit/models/UserTest.php" afterPath="$PROJECT_DIR$/yii2/tests/unit/models/UserTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yii2/views/layouts/main.php" afterPath="$PROJECT_DIR$/yii2/views/layouts/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/Example.php" afterPath="$PROJECT_DIR$/tests/Example.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/ExamplesTest.php" afterPath="$PROJECT_DIR$/tests/ExamplesTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/Tester.php" afterPath="$PROJECT_DIR$/tests/Tester.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,16 +26,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3094">
               <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yii2/vendor/codeception/base/src/Codeception/Test/Unit.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,21 +51,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExamplesTest.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ExamplesTest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/ExamplesTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="377">
+              <caret line="44" column="62" lean-forward="true" selection-start-line="44" selection-start-column="62" selection-end-line="44" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculete.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/calculete.php">
+      <file leaf-file-name="Calculete.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/Calculete.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="513">
+              <caret line="54" column="23" lean-forward="false" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/Example.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCase.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/TestCase.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="1091" column="0" lean-forward="false" selection-start-line="1091" selection-start-column="0" selection-end-line="1091" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,8 +94,8 @@
       <file leaf-file-name="Tester.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/Tester.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -168,16 +116,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
               <caret line="25" column="32" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="25" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Example.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -219,10 +157,11 @@
         <option value="$PROJECT_DIR$/tests/calc.php" />
         <option value="$PROJECT_DIR$/tests/CalcTest.php" />
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/tests/Example.php" />
-        <option value="$PROJECT_DIR$/tests/ExamplesTest.php" />
-        <option value="$PROJECT_DIR$/tests/Tester.php" />
         <option value="$PROJECT_DIR$/tests/calculete.php" />
+        <option value="$PROJECT_DIR$/tests/Example.php" />
+        <option value="$PROJECT_DIR$/tests/Calculete.php" />
+        <option value="$PROJECT_DIR$/tests/Tester.php" />
+        <option value="$PROJECT_DIR$/tests/ExamplesTest.php" />
       </list>
     </option>
   </component>
@@ -232,7 +171,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpDebugGeneral" xdebug_debug_port="9001" max_simultaneous_connections="3" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
+  <component name="PhpDebugGeneral" xdebug_debug_port="9001" max_simultaneous_connections="3" />
   <component name="PhpServers">
     <servers>
       <server host="dotaoverflow.local.ru" id="ce383610-6149-4a0d-b1a8-bd6c6b01faac" name="dotaoverflow.local.ru" use_path_mappings="true">
@@ -303,28 +242,28 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/yii2/vendor/autoload.php" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.phpunit" />
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
     <property name="settings.editor.splitter.proportion" value="0.24583742" />
   </component>
-  <component name="RunManager" selected="PHPUnit.calculete">
-    <configuration default="false" name="ExamplesTest.testCreateObjectExample" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="ExamplesTest" file="$PROJECT_DIR$/tests/ExamplesTest.php" method="testCreateObjectExample" scope="Method" />
+  <component name="RunManager" selected="PHPUnit.ExamplesTest.testCallAnotherObjectFromExampleObject">
+    <configuration default="false" name="calculete" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\calculete" file="$PROJECT_DIR$/tests/Calculete.php" scope="Class" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Calculete.testTwo" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Calculete" file="$PROJECT_DIR$/tests/Calculete.php" method="testTwo" scope="Method" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Calculete.test2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Calculete" file="$PROJECT_DIR$/tests/Calculete.php" method="test2" scope="Method" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExamplesTest.testCallAnotherObjectFromExampleObject" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\ExamplesTest" file="$PROJECT_DIR$/tests/ExamplesTest.php" method="testCallAnotherObjectFromExampleObject" scope="Method" />
       <method />
     </configuration>
     <configuration default="false" name="ExamplesTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="ExamplesTest" file="$PROJECT_DIR$/tests/ExamplesTest.php" scope="Class" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ExamplesTest.testCreateObjectExample (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="tests\ExamplesTest" file="$PROJECT_DIR$/tests/ExamplesTest.php" method="testCreateObjectExample" scope="Method" />
-      <method />
-    </configuration>
-    <configuration default="false" name="calculete.test2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\calculete" file="$PROJECT_DIR$/tests/calculete.php" method="test2" scope="Method" />
-      <method />
-    </configuration>
-    <configuration default="false" name="calculete" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\calculete" file="$PROJECT_DIR$/tests/calculete.php" scope="Class" />
+      <TestRunner class="Tests\ExamplesTest" file="$PROJECT_DIR$/tests/ExamplesTest.php" scope="Class" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -384,19 +323,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="PHPUnit.ExamplesTest.testCreateObjectExample" />
-      <item index="1" class="java.lang.String" itemvalue="PHPUnit.ExamplesTest" />
-      <item index="2" class="java.lang.String" itemvalue="PHPUnit.ExamplesTest.testCreateObjectExample (1)" />
-      <item index="3" class="java.lang.String" itemvalue="PHPUnit.calculete.test2" />
-      <item index="4" class="java.lang.String" itemvalue="PHPUnit.calculete" />
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.calculete" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.Calculete.testTwo" />
+      <item index="2" class="java.lang.String" itemvalue="PHPUnit.Calculete.test2" />
+      <item index="3" class="java.lang.String" itemvalue="PHPUnit.ExamplesTest.testCallAnotherObjectFromExampleObject" />
+      <item index="4" class="java.lang.String" itemvalue="PHPUnit.ExamplesTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="PHPUnit.calculete" />
-        <item index="1" class="java.lang.String" itemvalue="PHPUnit.calculete.test2" />
-        <item index="2" class="java.lang.String" itemvalue="PHPUnit.ExamplesTest.testCreateObjectExample (1)" />
-        <item index="3" class="java.lang.String" itemvalue="PHPUnit.ExamplesTest" />
-        <item index="4" class="java.lang.String" itemvalue="PHPUnit.ExamplesTest.testCreateObjectExample" />
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.ExamplesTest.testCallAnotherObjectFromExampleObject" />
+        <item index="1" class="java.lang.String" itemvalue="PHPUnit.ExamplesTest" />
+        <item index="2" class="java.lang.String" itemvalue="PHPUnit.calculete" />
+        <item index="3" class="java.lang.String" itemvalue="PHPUnit.Calculete.test2" />
+        <item index="4" class="java.lang.String" itemvalue="PHPUnit.Calculete.testTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -413,59 +352,59 @@
       <workItem from="1485776089465" duration="7227000" />
       <workItem from="1485874765827" duration="975000" />
       <workItem from="1486111913915" duration="10083000" />
-      <workItem from="1486198526189" duration="1014000" />
+      <workItem from="1486198526189" duration="5723000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExamplesTest_testCreateObjectExample_(1) - 2017.02.03 at 16h 14m 42s.xml">
-      <configuration name="ExamplesTest.testCreateObjectExample (1)" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="ExamplesTest - 2017.02.04 at 15h 29m 02s.xml">
+      <configuration name="ExamplesTest" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="ExamplesTest_testCreateObjectExample_(1) - 2017.02.03 at 16h 15m 04s.xml">
-      <configuration name="ExamplesTest.testCreateObjectExample (1)" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="ExamplesTest_testCallAnotherObjectFromExampleObject - 2017.02.04 at 15h 12m 00s.xml">
+      <configuration name="ExamplesTest.testCallAnotherObjectFromExampleObject" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="ExamplesTest_testCreateObjectExample_(1) - 2017.02.03 at 16h 17m 29s.xml">
-      <configuration name="ExamplesTest.testCreateObjectExample (1)" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="ExamplesTest_testCallAnotherObjectFromExampleObject - 2017.02.04 at 15h 14m 43s.xml">
+      <configuration name="ExamplesTest.testCallAnotherObjectFromExampleObject" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="ExamplesTest_testCreateObjectExample_(1) - 2017.02.03 at 16h 17m 37s.xml">
-      <configuration name="ExamplesTest.testCreateObjectExample (1)" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="ExamplesTest_testCallAnotherObjectFromExampleObject - 2017.02.04 at 15h 22m 30s.xml">
+      <configuration name="ExamplesTest.testCallAnotherObjectFromExampleObject" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="ExamplesTest_testCreateObjectExample_(1) - 2017.02.03 at 16h 17m 47s.xml">
-      <configuration name="ExamplesTest.testCreateObjectExample (1)" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="ExamplesTest_testCallAnotherObjectFromExampleObject - 2017.02.04 at 15h 26m 10s.xml">
+      <configuration name="ExamplesTest.testCallAnotherObjectFromExampleObject" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="ExamplesTest_testCreateObjectExample_(1) - 2017.02.04 at 14h 00m 57s.xml">
-      <configuration name="ExamplesTest.testCreateObjectExample (1)" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="ExamplesTest_testCallAnotherObjectFromExampleObject - 2017.02.04 at 15h 29m 38s.xml">
+      <configuration name="ExamplesTest.testCallAnotherObjectFromExampleObject" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="calculete - 2017.02.04 at 14h 08m 13s.xml">
+    <history-entry file="calculete - 2017.02.04 at 14h 51m 48s.xml">
       <configuration name="calculete" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="calculete - 2017.02.04 at 14h 08m 55s.xml">
+    <history-entry file="calculete - 2017.02.04 at 14h 51m 56s.xml">
       <configuration name="calculete" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="calculete - 2017.02.04 at 14h 10m 16s.xml">
+    <history-entry file="calculete - 2017.02.04 at 14h 52m 55s.xml">
       <configuration name="calculete" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="calculete_test2 - 2017.02.04 at 14h 07m 19s.xml">
-      <configuration name="calculete.test2" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="calculete - 2017.02.04 at 14h 55m 47s.xml">
+      <configuration name="calculete" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19299000" />
+    <option name="totallyTimeSpent" value="24008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1634" height="1057" extended-state="1" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.227446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.227446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33116883" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33116883" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24968234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39871383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3982684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -474,6 +413,25 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33116883" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.227446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3982684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -483,9 +441,25 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/Calculete.php</url>
+          <line>45</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/Calculete.php</url>
+          <line>38</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager>
+      <configuration name="phpunit">
+        <watch expression="$this" />
+        <watch expression="$this" />
+      </configuration>
       <configuration name="index.php">
         <watch expression="$request" />
       </configuration>
@@ -495,13 +469,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yii2/vendor/yiisoft/yii2/BaseYii.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4641">
-          <caret line="281" column="0" lean-forward="false" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yii2/vendor/kronusme/dota2-api/includes/Models/StatObject.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -778,14 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/TestCase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="1169" column="35" lean-forward="false" selection-start-line="1169" selection-start-column="35" selection-end-line="1169" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -802,34 +761,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/Tester.php">
+    <entry file="file://$PROJECT_DIR$/vendor/phpunit/phpunit/phpunit">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/ExamplesTest.php">
+    <entry file="file://$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/TestCase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="252">
+          <caret line="1091" column="0" lean-forward="false" selection-start-line="1091" selection-start-column="0" selection-end-line="1091" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Calculete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="54" column="23" lean-forward="false" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/Example.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/calculete.php">
+    <entry file="file://$PROJECT_DIR$/tests/Tester.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ExamplesTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="44" column="62" lean-forward="true" selection-start-line="44" selection-start-column="62" selection-end-line="44" selection-end-column="62" />
           <folding />
         </state>
       </provider>

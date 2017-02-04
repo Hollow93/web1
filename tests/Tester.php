@@ -1,7 +1,10 @@
 <?php
 namespace Tests;
 
-class tester
+class Tester
 {
+ public function sum(){
 
+     return 4;
+ }
 }
