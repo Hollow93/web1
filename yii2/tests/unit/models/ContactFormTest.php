@@ -7,6 +7,7 @@ use app\models\ContactForm;
 class ContactFormTest extends \Codeception\Test\Unit
 {
     private $model;
+
     /**
      * @var \UnitTester
      */
