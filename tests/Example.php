@@ -12,10 +12,15 @@ class Example
 
     public function sum($one, $two)
     {
-        $calculate = new Tester();
+        $calculate = new Calculate();
         $calculate->one = $one;
         $calculate->two = $two;
 
         return $calculate->sum();
+    }
+
+    public function getSameArray($array)
+    {
+        return $array;
     }
 }
