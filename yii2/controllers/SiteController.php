@@ -2,6 +2,7 @@
 
 namespace app\controllers;
 
+use app\models\AddNoteForm;
 use Dota2Api\Mappers\MatchMapperWeb;
 use Yii;
 use Dota2Api\Api;
@@ -10,6 +11,7 @@ use yii\web\Controller;
 use yii\filters\VerbFilter;
 use app\models\LoginForm;
 use app\models\ContactForm;
+use yii\web\UploadedFile;
 
 class SiteController extends Controller
 {
@@ -125,7 +127,25 @@ class SiteController extends Controller
 
             return $this->refresh();
         }
+
         return $this->render('contact', [
+            'model' => $model,
+        ]);
+    }
+
+    public function actionAddNote()
+    {
+        $model = new AddNoteForm();
+
+        if (Yii::$app->request->isPost) {
+            $model->imageFile = UploadedFile::getInstance($model, 'imageFile');
+            if ($model->upload()) {
+                // file is uploaded successfully
+                return;
+            }
+        }
+
+        return $this->render('add-note', [
             'model' => $model,
         ]);
     }
